@@ -16,7 +16,7 @@ int main() {
 	}
 	// view the image in this repository for better understanding
 	// otherwise, decrement n since Winnie-the-Pooh is already in Rabbit's house
-	// afterwards, choose the starting point, min(a, b)
+	// afterwards, choose the next house to visit, min(a, b)
 	// compare the minimum distance between going back to the previous house or
 	// going to the another house
 	n -= 1;
